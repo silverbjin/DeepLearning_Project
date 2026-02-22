@@ -61,3 +61,5 @@ history = model.fit(X_train, Y, epochs=100, batch_size=10, verbose=1)
 # revized 260222: test
 
 # branch commit test
+
+# 2nd PR test
