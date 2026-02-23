@@ -1,4 +1,3 @@
-# DeepLearning_Project
 # 🚀 CIFAR-10 이미지 분류 성능 한계 돌파 프로젝트
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -57,7 +56,7 @@
 
 ```bash
 # 1. 저장소 클론
-git clone [https://github.com/사용자이름/저장소이름.git](https://github.com/사용자이름/저장소이름.git)
+git clone [https://github.com/silverbjin/DeepLearning_Project.git](https://github.com/silverbjin/DeepLearning_Project.git)
 
 # 2. 패키지 설치
 pip install -r requirements.txt
