@@ -59,5 +59,3 @@ print("\n--- 학습 시작 ---")
 history = model.fit(X_train, Y, epochs=100, batch_size=10, verbose=1)
 
 # revized 260222: test
-
-# main branch new commit
